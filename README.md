@@ -1,4 +1,7 @@
 # 💫 About Me:
+<div align="center">
+    <img src="https://raw.githubusercontent.com/ofentse-ramothibe/ofentse-ramothibe/f713f3845a563bf32a7c57ce6c8b28c84ba69551/unnamed.jpg" alt="Profle image" width="150" height="150">
+</div>
 Hey ! 😁👋<br>Welcome, I'm Ofentse, an aspiring computer scientist with a growing passion for Cyber Security <br> and in building impactful projects as well as exploring cutting-edge technologies. <br>I'm currently pursuing my Bachelor's degree in Computer Science at the University of Pretoria.<br><br>My Interests 🤹‍♀️<br>**Cyber Security<br>**Web development<br>**Artificial Intelligence<br><br>🔭 I’m currently working on ...<br># Developing a personal portfolio to showcase my projects and skills<br># Getting cybersecurity certifications<br><br>🌱 I’m currently learning ...<br>#UI/UX design<br><br>⚡Interesting fact...<br>I've participated in the Eskom expo for Young Scientists and amongst others, I was awarded a Silver medal for my innovation idea called a Revolutionary aid. It focused on the science of converting human thoughts into speech to assist deaf-mute people.
 
 
