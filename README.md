@@ -5,10 +5,8 @@
 Hey ! 😁👋<br>Welcome, I'm Ofentse, an aspiring computer scientist with a growing passion for Cyber Security <br> and in building impactful projects as well as exploring cutting-edge technologies. <br>I'm currently pursuing my Bachelor's degree in Computer Science at the University of Pretoria.<br><br>My Interests 🤹‍♀️<br>**Cyber Security<br>**Web development<br>**Artificial Intelligence<br><br>🔭 I’m currently working on ...<br># Developing a personal portfolio to showcase my projects and skills<br># Getting cybersecurity certifications<br><br>🌱 I’m currently learning ...<br>#UI/UX design<br><br>⚡Interesting fact...<br>I've participated in the Eskom expo for Young Scientists and amongst others, I was awarded a Silver medal for my innovation idea called a Revolutionary aid. It focused on the science of converting human thoughts into speech to assist deaf-mute people.
 <br> 
 
-### 🔗 [**View Resume**](https://drive.google.com/file/d/1ZScSKxbcs0qC3jpGxeS9CMEkXjPgYgwE/view?usp=sharing)
-
 ## 🌐 Socials:
-GMail: ramothibeok@gmaill.com <br>
+GMail: ramothibeok@gmail.com <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofentse-ramothibe/)
 
 
